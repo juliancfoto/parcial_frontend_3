@@ -79,8 +79,8 @@ const App = () => {
 
         <div className='advice'>
           <ul>
-            <li><code>Tu nombre debe tener al menos 3 carácteres.</code></li>
-            <li><code>El animal debe tener al menos 6 carácteres.</code></li>
+            <li><code>Tu nombre debe tener al menos 3 caracteres.</code></li>
+            <li><code>El animal debe tener al menos 6 caracteres.</code></li>
           </ul>
         </div>
 
