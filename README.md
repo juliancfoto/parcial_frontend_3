@@ -1,5 +1,3 @@
-## Para correr el proyecto
-
-`npm install`
-
-`npm run dev`
+## PARCIAL FRONT-END III, CERTIFIED TECH DEVELOPER
+Julián Mateo Caicedo Ruiz
+8 marzo 2023

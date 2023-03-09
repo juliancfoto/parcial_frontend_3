@@ -60,14 +60,6 @@ const App = () => {
   return (
     <div className="App">
       <section className="form">
-        {/* <form onSubmit={onSubmitForm}>
-            <input type="text" placeholder="Ingresa tu nombre" value={userName} onChange={onChangeUserName} />
-
-            <input type="text" placeholder="¿Cuál es tu animal favorito?" value={animal} onChange={onChangeAnimal}/>
-
-            <Button givenType="submit" content="Enviar"></Button>
-        </form> */}
-
         <Form
         onSubmitForm={onSubmitForm}
         title="¡Elige un animal!"
